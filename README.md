@@ -1,63 +1,34 @@
-# React Projects
+# React Projects — Course Exercises
 
-#### React Course
+This repository is a fork and learning collection based on [John Smilga's React course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF). The project examples and course materials are credited to their original author. This repository is useful for reviewing the exercises; it is not presented as an original product.
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+## How it is organized
 
-#### Support
+There are 23 course projects. Each project has a `setup` version and a `final` version. To run an example, open that project's `final` directory and follow its package scripts. There is no single root application or root `package.json`.
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+## Course resources
 
-#### Tutorial Video
+- [Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
+- [Tutorial video](https://youtu.be/iZhV0bILFb0)
+- [Projects site](https://react-projects.netlify.app/)
 
-[React Tutorial](https://youtu.be/iZhV0bILFb0)
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
-
-#### useState
+## Exercises
 
 1. Birthday Reminder
-
-#### useEffect and Conditional Rendering
-
 2. Tours
 3. Reviews
 4. Questions
 5. Menu
 6. Tabs
 7. Slider
-
-#### Forms
-
 8. Lorem Ipsum Generator
 9. Color Shades Generator
 10. Grocery Bud
-
-#### useRef
-
 11. Navbar
-
-#### useContext
-
-12. Modal And Sidebar
+12. Modal and Sidebar
 13. Stripe Submenus
-
-#### useReducer and useContext
-
 14. Cart
-
-#### React Router and useCallback
-
 15. Cocktails
-
-## Advanced Projects (Course Exclusive)
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
 16. Markdown Preview
 17. Random Person
 18. Pagination
